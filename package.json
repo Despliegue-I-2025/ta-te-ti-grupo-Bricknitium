@@ -1,9 +1,9 @@
 {
   "name": "tateti-server",
   "version": "1.0.0",
-  "main": "tateti.js",
+  "main": "Minimax.js",
   "scripts": {
-    "start": "node tateti.js"
+    "start": "node Minimax.js"
   },
   "dependencies": {
     "express": "^4.18.2"
