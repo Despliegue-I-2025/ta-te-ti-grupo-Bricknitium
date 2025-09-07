@@ -31,4 +31,4 @@ Este trabajo ha sido desarrollado colaborativamente por:
 
 • **Romero Valentina**
 
-• Uziel Gamarra.
+• **Uziel Gamarra**.
