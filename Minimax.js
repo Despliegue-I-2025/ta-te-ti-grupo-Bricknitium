@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = 3000;
+const PORT = 3010;
 
 // Constantes para identificar jugadores
 const BOT = 1;        // Nuestro bot (maximizador)
