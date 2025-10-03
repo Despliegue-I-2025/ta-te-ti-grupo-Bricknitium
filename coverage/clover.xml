@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1759422977121" clover="3.2.0">
-  <project timestamp="1759422977122" name="All files">
+<coverage generated="1759450385039" clover="3.2.0">
+  <project timestamp="1759450385040" name="All files">
     <metrics statements="44" coveredstatements="44" conditionals="27" coveredconditionals="27" methods="4" coveredmethods="4" elements="75" coveredelements="75" complexity="0" loc="44" ncloc="44" packages="1" files="1" classes="1"/>
     <file name="MinimaxLogic.js" path="C:\Users\loyol\OneDrive\Escritorio\Carrera\Primer Año\Segundo Cuatrimestre\Diseños Y Arquitecturas De Despliegues\Repos\ta-te-ti-grupo-4\test\MinimaxLogic.js">
       <metrics statements="44" coveredstatements="44" conditionals="27" coveredconditionals="27" methods="4" coveredmethods="4"/>
